@@ -1,0 +1,1 @@
+python scrape_code.py OS "29851811" "https://www.tradesy.com/i/isabel-marant-black-bobby-sneakers-wedges-size-eu-37-approx-us-7-regular-m-b/29851811/" 0 "meta,link,script" "idp-share,legal-links" "img__1bebd,original-price,brand,title,condition,text-wrap,idp-item-size,idp-accordion-panel"
